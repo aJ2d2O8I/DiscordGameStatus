@@ -11,4 +11,4 @@
 // @run-at      document-start
 // @downloadURL https://raw.githubusercontent.com/PotcFdk/DiscordGameStatus/master/DiscordGameStatus.user.js
 // @updateURL   https://raw.githubusercontent.com/PotcFdk/DiscordGameStatus/master/DiscordGameStatus.meta.js
-// ==/UserScript==
+// + ==/UserScript==
