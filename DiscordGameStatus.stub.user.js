@@ -2,7 +2,7 @@
 // @author      PotcFdk
 // @namespace   https://github.com/PotcFdk
 // @name        DiscordGameStatus
-// @description A userscript for setting the currently playing game in the Discord web client
+// @description A userscript for setting the currently playing game in the Discord web clients
 // @include     https://discordapp.com/*
 // @include     https://ptb.discordapp.com/*
 // @include     https://canary.discordapp.com/*
