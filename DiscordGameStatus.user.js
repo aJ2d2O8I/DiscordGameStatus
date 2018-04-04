@@ -11,7 +11,7 @@
 // @run-at      document-end
 // @downloadURL https://raw.githubusercontent.com/PotcFdk/DiscordGameStatus/master/DiscordGameStatus.user.js
 // @updateURL   https://raw.githubusercontent.com/PotcFdk/DiscordGameStatus/master/DiscordGameStatus.meta.js
-// ==/UserScript==
+// + ==/UserScript==
 
 /*
 	DiscordGameStatus - Copyright (c) PotcFdk, 2017
