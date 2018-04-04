@@ -4,6 +4,8 @@
 // @name        DiscordGameStatus
 // @description A userscript for setting the currently playing game in the Discord web client
 // @include     https://discordapp.com/*
+// @include     https://ptb.discordapp.com/*
+// @include     https://canary.discordapp.com/*
 // @version     0
 // @grant       GM_unsafeWindow
 // @run-at      document-start
